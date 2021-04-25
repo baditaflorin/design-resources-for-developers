@@ -432,6 +432,8 @@
 | [ROBOHASH](https://robohash.org/) | Generate unique images from any text |
 | [Tabbied](https://tabbied.com/) | Create and customize minimally generated patterns/artwork to use for background images, print and other projects. |
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
+| [OpenClipArt](https://openclipard.org/) | Founded in 2004, Open Clipart is an online media collection of more than 160 000 vectorial graphics, entirely in the public domain. |
+
 
 
 <div align="right">
